@@ -1,0 +1,6 @@
+label[t='ICD-O-3 Morphologie:'],
+label[t='ICD-O-3 Topologie:'] { font-weight: bold; }
+label[t='NCI Thesaurus:'] {     font-weight: bold; }
+
+.subFormWithBorder[t='Unterformular MA Diskussion'] .x-panel-body { background-color: #fffae1}
+.subFormWithBorder[t='Unterformular MA Diskussion'] > div > div .x-panel-header { visibility:hidden }
